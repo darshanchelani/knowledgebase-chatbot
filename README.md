@@ -80,7 +80,7 @@ streamlit run frontend.py
 ## 🤝 Let's Connect!
 
 - [LinkedIn Profile](https://linkedin.com/in/darshankumar25)
-- [GitHub Profile](https://github.com/darshanchelnai)
+- [GitHub Profile](https://github.com/darshanchelani)
 
 ---
 
